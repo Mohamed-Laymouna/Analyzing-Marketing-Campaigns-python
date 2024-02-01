@@ -60,7 +60,5 @@ In conclusion, this notebook provides a comprehensive analysis of a marketing ca
 
 Feel free to explore the notebook and use the code provided to conduct your own analysis or apply it to similar marketing datasets.
 
-For any questions or further information, please contact [your contact information].
-
 Thank you for using this notebook!
 
